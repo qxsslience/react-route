@@ -1,0 +1,8 @@
+.nav li{
+    overflow: hidden;
+    clear: both;
+}
+.nav ul li{
+    float:left;
+    margin:0 20px;
+}
